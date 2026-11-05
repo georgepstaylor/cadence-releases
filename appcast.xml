@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Cadence</title>
+    <item>
+      <title>Cadence 0.19.0</title>
+      <pubDate>Thu, 05 Nov 2026 12:19:47 +0000</pubDate>
+      <sparkle:version>111</sparkle:version>
+      <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new in Cadence 0.19.0</h3><ul><li>feat: opt in to beta updates (#45)</li>
+<li>fix: Cadence no longer crashes on pre-release macOS 27.2 when comparing dates (#44)</li></ul>]]></description>
+      <enclosure url="https://github.com/georgepstaylor/cadence-releases/releases/download/v0.19.0/Cadence.zip" type="application/octet-stream" sparkle:edSignature="dXqo3vH4AQascwMHoNKy1aA4jIppC+IQe63OrctfMS44ik2ciChGEHItC2dzDSxI5/5p43TczPHxTC9cx2R3Ag==" length="5887213"/>
+    </item>
+  </channel>
+</rss>
