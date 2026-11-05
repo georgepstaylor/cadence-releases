@@ -3,6 +3,16 @@
   <channel>
     <title>Cadence</title>
     <item>
+      <title>Cadence 0.20.0-beta.1</title>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 05 Nov 2026 12:29:26 +0000</pubDate>
+      <sparkle:version>112</sparkle:version>
+      <sparkle:shortVersionString>0.20.0-beta.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new in Cadence 0.20.0-beta.1</h3><ul><li>fix: release script stops after tagging a normal release (#46)</li></ul>]]></description>
+      <enclosure url="https://github.com/georgepstaylor/cadence-releases/releases/download/v0.20.0-beta.1/Cadence.zip" type="application/octet-stream" sparkle:edSignature="iYK1zx+5cjtiaiVklucP0LxxTT6DCHTFXDeF8DTO5Al5C0MMP54qwVL5Kh2mLqaSJe5QfZp68NAFLLKR/p8sBw==" length="5887223"/>
+    </item>
+    <item>
       <title>Cadence 0.19.0</title>
       <pubDate>Thu, 05 Nov 2026 12:19:47 +0000</pubDate>
       <sparkle:version>111</sparkle:version>
